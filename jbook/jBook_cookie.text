@@ -1,0 +1,8 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.c2567.com	TRUE	/	FALSE	1590118385	__cfduid	daada95bf5182ee4625be238c0844dcef1558582385
+.jianshu.com	TRUE	/	TRUE	1558603992	_m7e_session_core	98af141af2926b5efb343cd756e02c33
+.jianshu.com	TRUE	/	TRUE	1561260790	remember_user_token	W1sxNTg4OTE5MV0sIiQyYSQxMSQ5ZERJSDcyQnBsNmlmWWxpRU9ZV0IuIiwiMTU1ODU4MjM5MC42MTE0NTE5Il0%3D--0218e2da845c498df865abe18e143922de106069
+www.jianshu.com	FALSE	/	FALSE		locale	zh-CN
